@@ -17,4 +17,4 @@ ansible-lint = { version = "^24.5.0", markers = 'platform_system != "Windows"' }
 
 [build-system]
 requires = ["poetry-core"]
-build-backend = "poetry.core.masonry.api".
+build-backend = "poetry.core.masonry.api"
